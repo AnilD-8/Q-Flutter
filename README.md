@@ -119,9 +119,16 @@ side_navigation.png
 world_rank_screen.png
 
 
+
+https://github.com/user-attachments/assets/415ca03e-04a1-4b63-b5f1-0be58b5998ad
+
+
+
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır.Daha fazla bilgi için 'LICENSE' dosyasını inceleyebilirsiniz.
+
+
 
 
 
