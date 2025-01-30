@@ -116,7 +116,6 @@ side_navigation.png
 
 
 
-world_rank_screen.png
 
 
 
